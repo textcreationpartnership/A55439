@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popes bull: or, papal creed. Made at Trent, and promulgated at Rome by Pope-Pious, Fourth. Demonstrated to be antichristian VVhereunto is added, a discourse between an English Protestant, and a popish Jesuit: who endeavoured to seduce some persons in London, to the imbracing of popery: necessary to be seen by all that would know the present faith of Rome, especially in these our nations, where they conceal it.</title>
+         </titleStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55439</idno><idno type="EEBO-CITATION">99830983</idno>
+  <idno type="VID">35445</idno>
+  <idno type="EEBO-PROQUEST">2240864379</idno>
+  
+            <idno type="STC">Wing P2926C</idno>
+            <idno type="STC">ESTC R219516</idno>
+            <idno type="PROQUEST">99830983</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830983e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35445)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2037:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popes bull: or, papal creed. Made at Trent, and promulgated at Rome by Pope-Pious, Fourth. Demonstrated to be antichristian VVhereunto is added, a discourse between an English Protestant, and a popish Jesuit: who endeavoured to seduce some persons in London, to the imbracing of popery: necessary to be seen by all that would know the present faith of Rome, especially in these our nations, where they conceal it.</title>
+                  <author>Catholic Church. Pope (1559-1565 : Pius IV)</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Fran. Smith, at the Elephant and Castle, neer the Royal Exchange in Cornhill, and at the same sign, at the first shop without Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Nineteen quæries tending to unbeguile a Protestant from that deceipt of Scriptures, being the guide of faith" has caption title on p. 5.</note>
+                  <note>Reproduction of the original in the Exeter College Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church. --  Pope (1559-1565 : Pius IV). --  Professio fidei Tridentina. --  English &amp; Latin --  Controversial literature --  Early works to 1800.</term>
+               <term type="corporate_name">Catholic Church --  Controversial literature --  Early works to 1800.</term>
+               <term type="meeting_name">Council of Trent (1545-1563) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35445:1"/>
+            <p>THE POPES BULL: OR, PAPAL CREED. MADE AT TRENT, And Promulgated at ROME BY Pope-Pious, Fourth. Demonstrated to be ANTICHRISTIAN.</p>
+            <p>VVhereunto is Added, A Discourse between an <hi>English Protestant,</hi> and a <hi>Popish Jesuit:</hi> who Endeavoured to Seduce some <hi>Persons</hi> in <hi>London,</hi> to the Imbracing of Popery: Necessary to be seen by all that would know the <hi>Present Faith</hi> of <hi>Rome,</hi> especially in these our <hi>Nations,</hi> where they conceal it.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Fran. Smith,</hi> at the Elephant and Castle, neer the Royal Exchange in <hi>Cornhill,</hi> and at the same sign, at the first Shop without <hi>Temple-Bar.</hi> 1673.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:35445:2"/>
+            <pb facs="tcp:35445:2"/>
+            <head>TO THE READER.</head>
+            <p>SOme Time since a Papist, supposed to be a Priest, endeavouring to gain some persons in <hi>London,</hi> to the Imbracing of Popery, delivered the first Question here set down, which being answered in Writing, a Confe<g ref="char:EOLhyphen"/>rence was occasioned, wherein the Papist would have put the Protestant to be the Opponent: which being shewed not to agree with the matter, or the Rules of Dispute, at the Motion of the Auditory, in two points satisfaction was desired, about the Priests power to forgive Sins, for which the Papist alledged, <hi>John</hi> 20.23. And the Annotation in the Margin of the New Te<g ref="char:EOLhyphen"/>stament, after <hi>Beza's</hi> Translation in these words, The publishing of the for<g ref="char:EOLhyphen"/>giveness of sins by Faith in Christ, and the setting forth and denouncing the Wrath of God, in retaining the sins of the Unbelievers, is the sum of the preaching of the Gospel, unto such declarative absolution the Protestant asserted, but denied such absolution as the Papists assert in the Sacrament of Penance, as they call it, in which they assert, <hi>ex opere operato,</hi> upon the Priests pronouncing of the words, <hi>I absolve thee,</hi> the sins of the person confes<g ref="char:EOLhyphen"/>ed to him, are undoubtedly forgiven. 2 About Transubstantiation, for which the Papist Alledged, <hi>Luk.</hi> 22.19. The Protestant asked whether because it was said, <hi>v.</hi> 20. <hi>This Cup is the New Testament in my blood, which is shed for you:</hi> the Cup was Transubstantiated into the New Testament, so as that it was no more a Cup, but the New Testament: the <hi>Papist</hi> granted a figure or trope of speech therein: whereupon it was replied, so it must be in the other speech, <hi>This is my body.</hi> To evince which, the Protestant asked the Papist, what was ment by <hi>(This)</hi> v. 19. The Papist answered: when Christ said <hi>(This)</hi> it was bread, when he said <hi>(is)</hi> it was bread, when he said <hi>(my)</hi> it was bread, when he said <hi>(bo)</hi> it was Bread, but when he said <hi>(Bod<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>)</hi> it was flesh: which appearing Ridiculous to the Auditors, they were satisfied that <hi>(This)</hi> signifies no other substance then <hi>(Bread)</hi> and that Christs words could not be true without a Trope or Figure of Speech, in which the sign is put for the thing signified. After this, matters passed by Writing, in these questions and an<g ref="char:EOLhyphen"/>swers, which are here printed. To the 30 Questions the Protestant hath re<g ref="char:EOLhyphen"/>ceived no Answer, which occasions the printing of them with the Narra<g ref="char:EOLhyphen"/>tive, and additional Questions, because of the Importunity of some Papist of late, about the Rule of Faith, in <hi>Lands</hi> Labyrinth, sure Footing, Faith Vindicated from possibility of Falshood, examin'd by Dr. <hi>Stillingfleet,</hi> and Dr. <hi>Tillotson,</hi> and Mr. <hi>Whitby;</hi> that Papists may be awakened to consider whether they have any better footing for their Faith and practice then Pro<g ref="char:EOLhyphen"/>testants have, and whether they do not in the conclusion resolve their Faith, not only into the credit of the Popes, many of whom their own Writers, and all that have had to do with them have found neither learned, especially in matters of Religion, nor honest, but also of their Priests, of whose igno<g ref="char:EOLhyphen"/>rance and deceits, from their own Writers, if not by their own experience they might have abundant Testimonie. The Author prayeth God to open their eyes, &amp; to deliver them from the snare in which they are held, which cannot but be their ruine, unless they be recovered out of it, for which these passages are Printed; and committed to his benediction, to whom all glory is <gap reason="illegible: page cropped" extent="1 line">
+                  <desc>〈1 line〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:35445:3"/>
+            <head>Passages Tending to shew the uncertainty of the Popish Religion, and to Vindicate the Prote<g ref="char:EOLhyphen"/>stant Religion, from its Falsely supposed uncertainty.</head>
+            <div n="1" type="question">
+               <head>The 1. Quest.</head>
+               <p>
+                  <hi>DID Christ leave any visible means, as the Ordinary means to teach all mankind his Gospel, with Infallible truth and Divine Authority?</hi>
+               </p>
+               <p>
+                  <hi>By Christs Gospel,</hi> I mean, The Intire Form, Law, or Rule of Faith, (both as touch<g ref="char:EOLhyphen"/>ing Doctrine, Worship, Sacraments, Government, and Discipline; and as touch<g ref="char:EOLhyphen"/>ing the Practice of Christian Vertues) instituted, revealed, taught, or promulgated by him, or his Apostles, as from him. <hi>By teaching all Mankind,</hi> I mean, To give In<g ref="char:EOLhyphen"/>fidels, and all Novices their first Instruction in the first Principles of Christian Re<g ref="char:EOLhyphen"/>ligion, and to instruct and guide Christians afterward in all things pertaining to a Christian, to know or practice, to his souls health. <hi>By teaching with Infallible Truth,</hi> I mean, That that means shall never teach any thing as Gospel, which is not so, nor deny any thing to be Gospel which is so. <hi>By teaching with Divine Authory,</hi> I mean, Teaching by Authority of, and from Christ, so that to believe it, is a vertue avail<g ref="char:EOLhyphen"/>able to Salvation, not to believe it is a damnable sin. <hi>By Ordinary means,</hi> I mean, which was to continue in the world all days, to the worlds end. <hi>By the Ordinary means,</hi> I mean, That which is proper, and necessary, and self-sufficient to that end.</p>
+            </div>
+            <div type="answer">
+               <head>The Answer.</head>
+               <p>
+                  <hi>The Written Word left by Christ and his Apostles, is the visible Ordinary means to teach all mankind his Gospel, with infallible truth, and Divine Authority.</hi>
+               </p>
+               <p>
+                  <hi>By the Gospel,</hi> I mean, All such Truths and Duties as are necessary to be believed and practised. <hi>By all mankind,</hi> I mean, Both such Infidels to whom the Scriptures are revealed, and sufficiently proposed, as likewise Novices and grown Christians. <hi>This written Word,</hi> Is of infallible Verity, and of Divine Authority. <hi>'Tis a means</hi> as having a Causal influence upon the effect by way of Rule. 'Tis visible and easily Obvious for men to take notice of. <hi>'Tis the Ordinary means,</hi> which according to the common course of Providence, doth make Christians.</p>
+            </div>
+            <div type="commentary">
+               <head>The Catholick Ground.</head>
+               <p>
+                  <hi>Christ left the Church (that is, his Apostles, as a Community that was to have a perma<g ref="char:EOLhyphen"/>nency by succession) for the Ordinary means to teach all mankind his Gospel with infallible Truth, and Divine Authority proves,</hi> Mark 16.15. <hi>Preach the Gospel to every crea<g ref="char:EOLhyphen"/>ture be that believes and is baptized shall be Saved, he that does not shall be Damned.</hi>
+               </p>
+               <p>Mat 28.19. <hi>Go ye into the whole World, teach all Nations, teaching them to observe all things whatsoever I have commanded you: And loe I am with you all days, even to the worlds end.</hi>
+               </p>
+               <p>John 14.16. and 16.13. <hi>I will send the Spirit of truth upon you, that he may abide with you for ever, and lead you into all Truth.</hi> Ephes 4.11. <hi>Christ when he ascended, gave some Apostles some Pastors, &amp;c. for the perfecting of the Saints, &amp;c. until we all meet in unity, &amp;c.</hi>
+               </p>
+               <p>Answ. 1. <hi>Christ left his Apostles to teach all mankind his Gospel with infallible truth, and Divine Authority.</hi> And so much is granted to be evinced from the alledged Texts. 2. It is granted that Christ when he ascended gave some Pastors &amp; Teachers for the ordinary means, to teach all mankind his Gospel, <hi>Ephe.</hi> 4.11. 3. These Pastors &amp; Teachers were to have a Permanency by succession unto the worlds end. 4. These succeed the Apo<g ref="char:EOLhyphen"/>stles in the work of Teaching, not in the fulness of power and authority which they had. 5. They teach with infallible truth and Divine Authority, while they teach the same which the Apostles taught, not so, when they teach otherwise then they did. 6. The Doctrine of Christ and his Apostles may be infallibly known by the Holy Scri<g ref="char:EOLhyphen"/>ptures of the New Testament. 7. The Apostles were to Teach, not only as a Communi<g ref="char:EOLhyphen"/>ty, but also severally, or each Apostle by himself, and each Apostles Doctrine singly delivered, was of infallible Truth, and Divine Authority. 8. No where in Holy Scri<g ref="char:EOLhyphen"/>pture are the Apostles and the Pastors, and Teachers, succeeding them, termed the Church which Christ left for the Ordinary means, to teach all mankind his Gospel with infallible Truth, and Divine Authority.</p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="5" facs="tcp:35445:3"/>
+            <head>Nineteen <hi>Quaeries</hi> tending to unbeguile a Protestant from that Deceipt of Scriptures, being the Guide of Faith.</head>
+            <p>IN Answer to the Title of the Quaeries, I say: 1. To term (the Scriptures, being the Guide or Rule of Faith, a Deceipt) is False, Unchristian, impious, nigh to Blas<g ref="char:EOLhyphen"/>phemy, to be abhorred by all Christians. 2. To intimate, that by terming (the Scri<g ref="char:EOLhyphen"/>ptures, the Guide of Faith) meaning the Rule of Faith and Religion, the Pro<g ref="char:EOLhyphen"/>testant beguiles, or is beguiled, is a Calumny or Falsity. 3. To endeavour to unset<g ref="char:EOLhyphen"/>tle men from this perswasion (that the Scripture is the Guide of Faith) there being no other certain guide of Faith Demonstrated, or Demonstrable, tends to Undermine Christianity, &amp; to expose men to Quakerism, Scepticism, Atheism, Mahometanism, or what ever Errour in Religion mens own fancy leads them to. 4. The way of pro<g ref="char:EOLhyphen"/>pounding Questions here used without any Distinst Determinations of the Questio<g ref="char:EOLhyphen"/>nist, or impugning the Answer afore given in express Terms: <hi>(That the Written Word left by Christ and his Apostles, is the visible ordinary means to teach all mankind his Gospel, with infallible Truth, and Divine Authority)</hi> tends not to instruct or unbeguile the Pro<g ref="char:EOLhyphen"/>testant, but to perplex or intangle him with unnecessary Disputes, sith it is agreed on by all Christians (that the Holy Scriptures of the Old and New Testaments are a Rule of Faith with Infallible Truth, and Divine Authority) and serving only to their design; who by Cavils and Wranglings intend the unsetling of mens souls, that they may rely on themselves, or some other Humane Authority.</p>
+            <p n="1">1 Quae <hi>Who, or what was the Supreme Ordinary Guide and Rule of Faith and Religion to the People afore the writing of</hi> Moses <hi>Law? (which was</hi> 2500 <hi>years.</hi>)</p>
+            <p>In Answer to the Questions, I say, to the First; We find, that God spake in sundry sorts, parts or manners, of Old to the Fathers, by the Prophets, <hi>Heb.</hi> 1.1. But whe<g ref="char:EOLhyphen"/>ther afore the Writing of <hi>Moses</hi> Law, there were a Supream Ordinary Guide and Rule of Faith and Religion to the people, is not known, nor necessary to be shewed by us.</p>
+            <p n="2">2 Quae. <hi>Who, or what was the Supreme Ordinary Guide and Rule of Faith and Religion to the People, after the Writing of</hi> Moses <hi>Law until Christ? If you say</hi> Moses <hi>Law, and afterwards the other books of the Old Testament, name some Text affirming it.</hi>
+            </p>
+            <p>
+               <hi>Ans.</hi> To the second, the Law of <hi>Moses</hi> and other Books of the Old Testament were the Supreme Ordinary Guide and Rule of Faith and Religion to the people of <hi>Israel,</hi> until Christ, which is proved from, <hi>Psalm</hi> 19.7, 8, 11. The Law of the Lord is per<g ref="char:EOLhyphen"/>fect Converting the soul, the Testimony of the Lord is sure, making wise the simple, enlightning the eyes; by them is thy servant warned, and in keeping of them there is great reward, <hi>Isa.</hi> 8.20. <hi>To the Law, and to the Testimony,</hi> if they speak not accor<g ref="char:EOLhyphen"/>ding to this word, it is because there is no light in them, <hi>Luke</hi> 16.29. <hi>Abraham</hi> saith unto him, <hi>They have</hi> Moses <hi>and the Prophets, let them hear them,</hi> v. <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1. <hi>And he said unto him, if they hear not</hi> Moses <hi>and the Prophets, neither will they be perswaded though one rose from the dead,</hi> Rom. 15.4. <hi>For whatsoever things were written afore time, were written for our Learning that we thorow patience and comfort of the Scriptures might have hope.</hi>
+            </p>
+            <p n="3">3 Quae. <hi>Who or what was foretold by the Prophets for the guide of Faith under the Gospel?</hi> If you say, the Scriptures, name your Text for it.</p>
+            <p>
+               <hi>Answ.</hi> To the third, it was foretold by the Prophets, that our Lord Jesus Christ
+<pb n="6" facs="tcp:35445:4"/> should be for the Guide of Faith, under the Gospel, <hi>Deut.</hi> 18.15. <hi>Act.</hi> 3.22, 23, 24. For <hi>Moses</hi> truly said unto the Fathers, <hi>A Prophet shall the Lord your God raise up unto you of your Brethren, like unto me; him shall you hear in all things whatsoever he shall say unto you. And it shall come to pass, that every soul which will not hear that Prophet, shall be destroyed from among the people: yea, and all the Prophets from</hi> Samuel, <hi>and those that follow after have likewise foretold of these days.</hi>
+            </p>
+            <p n="4">4. Q. <hi>Did our Saviour leave or design <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Scripture for the Guide or Rule of Faith and Reli<g ref="char:EOLhyphen"/>gion, to the People after his, or his Apostles departure?</hi> If you say, Yea, Name some Text.</p>
+            <p>
+               <hi>Answ.</hi> To the Fourth, our Saviour Christ did leave or design the Scripture for the Guide, or Rule of Faith and Religion, to the people, after his or his Apostles departure, <hi>John</hi> 5.39. <hi>Search the Scriptures, for in them ye think ye have eternal life, and they are they which testifie of me,</hi> v. 46, 47. <hi>For had ye believed</hi> Moses, <hi>ye would have believed me, for he wrote of me; but if ye believe not his writings, how shall ye believe my words?</hi> Mark 12.24. <hi>And Jesus answering, said unto them, Do ye not therefore erre, be<g ref="char:EOLhyphen"/>cause ye know not the Scriptures?</hi> John 20.30, 31. And many other signs truly did Jesus in the presence of his Disciples, which are not written in this Book. But these are written that he might believe that Jesus is the Christ the Son of God, and that believing ye might have life through his Name.</p>
+            <p n="5">5 Quae. <hi>Did our Saviour ever speak any least word touching Scripture, as it was to be in any use among Christians?</hi> If so, name where.</p>
+            <p>
+               <hi>Ans.</hi> To the fifth in the same Text, our Saviour did speak some words touching Scripture, as it was to be in some use among Christians.</p>
+            <p n="6">6 Quae. <hi>Did he ever take any least care, or order for the Writing of his Gospel? or design or intend, that any one word of it should be written?</hi> If you say, Yea, name your proof.</p>
+            <p>
+               <hi>Ans.</hi> To the sixth, Christ did take care and order for the writing of his Gospel, he did design and intend some words of it should be written, which is proved in that St. <hi>John</hi> did Write the Gospel, Joh. 20.31. and 21.23, 24. And in that he wrote by Christs Order, <hi>Rev.</hi> 1.2, 3, 19. Whereby he bare Record of the Word of God, and of the Testemony of Jesus Christ, and of all things that he saw, the things which were, and which should be hereefter.</p>
+            <p n="7">7 Quae. <hi>Was not the Christian Church, Faith and religion planted and setled in the world in all its essentials (whereof the guide and rule of Faith the principal) as it was to continue to the worlds end; afore the writing of the New Testament?</hi> If you deny it, show why.</p>
+            <p>
+               <hi>Ans.</hi> To the seventh, The term <hi>(essensually)</hi> is a Latine Logick word, which may be variously understood, and therefore till it be shewed, whither by it be meant any other then the matter and form, or genus and specifical difference out of which the definition of a thing is framed, a distinct answer cannot be given. The guide or Rule of Faith is not any of the essentials of the Christian Church, Faith &amp; Religion much<g ref="char:EOLhyphen"/>less the principal; I mean, it is no essential part constitutive, as matter or form, without which the Christian Church, Faith, and Religion exists not, nor either Genus or diffe<g ref="char:EOLhyphen"/>rence, without which they cannot be defined; yet I grant the guide and rule of Faith to be a principal efficient cause or means of planting and seting in the world the Christian Church, Faith and Religion.</p>
+            <p>Having thus explicated the terms I Answer, 1. That the Christian Church, Faith and Religion, was planted and setled in the World by Christ, and his Apostles, afore the writing of the New Testament. 2. That the Faith and Religion delivered by Christ and his Apostles afore the writing of the New Testament was to continue to the worlds end. 3. That the writing of the New Testament was the means God left us, hereby to regulate our Faith and Religion to the worlds end. 4. That we know no better, or other guide or rule of Faith and Religion: and the reason of these asserti<g ref="char:EOLhyphen"/>ons
+<pb n="7" facs="tcp:35445:4"/> is, because since the Apostles decease, we know none either person or rule on earth, that is endued with the same immediate Revelation of the things and mind of Christ, which they had, nor have such infallible guidance of the Spirit as they had, nor can give us assurance that we shall not erre by following them, as they could.</p>
+            <p n="8">8. Quae. <hi>Did eight of the Apostles leave any one Book of the New Testament to the Churches of their Founding? or know when they died there was any one book of it written, or to be written?</hi> If you affirm it, give your reason.</p>
+            <p>
+               <hi>Ans.</hi> To the eighth, The answer to it depends on History of facts and events un<g ref="char:EOLhyphen"/>necessary to be known, and of which we have no certainty, and therefore it is not ma<g ref="char:EOLhyphen"/>terial to answer it.</p>
+            <p n="9">9 Quae. <hi>Do you find in the Acts of the Apostles (which contain all the sacred History we have of the Primitive Church) that any one of the Apostles wrote any thing, or intended to do it?</hi> If so, name where.</p>
+            <p>
+               <hi>Ans.</hi> To the ninth, not yeilding the <hi>Acts of the Apostles,</hi> to contain all the sacred History, we have of the Primitive Church, I say, the Apostles, to wit <hi>Peter,</hi> and <hi>James</hi> wrote something, <hi>Acts</hi> 15.22, 23. and other Epistles of the Apostles are extant.</p>
+            <p n="10">10 Quae. <hi>Is it any where expresly said in the New Testament (in words or sense) that Scripture was, or was to be, the guide or rule of Faith to the people?</hi> If so, name where?</p>
+            <p>
+               <hi>Ans.</hi> To the tenth, It is expresly said in sense, that Scripture was, and was to be the guide or rule of Faith to the People, <hi>John</hi> 20.31. <hi>These are written that ye might believe, that Jesus is the Christ, the Son of God, and that believing ye might have life through his Name,</hi> Luke 1.1, 2, 3, 4. Forasmuch as many have taken in hand to set forth a Declaration of those things which are most surely believed among us, even as they delivered them unto us, which from the begining were eyewitnesses, and Ministers of the word: It seemed good to me also, having had perfect understanding of things from the very first, to write unto thee in order, most excellent <hi>Theophilus,</hi> that thou mightest know the certainty of those things wherein thou hast been instructed, 2 <hi>Tim.</hi> 3.15. And that thou hast known the Scriptures from a Child, which are able to make thee wise unto salvation, 2 <hi>Pet.</hi> 1.19. We have also a more sure word of Prophecy, where<g ref="char:EOLhyphen"/>unto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day-star arise in your hearts.</p>
+            <p n="11">11. Quae. <hi>Doth any Scripture allow, authorize, advise, or encourage Lay-people to read Scripture, to that end to instruct or guide themselves by it alone (independently of the Church for its Interpreter) in matters of Faith?</hi> If so, name the place.</p>
+            <p>
+               <hi>Ans.</hi> To the eleventh, These Scriptures, <hi>John</hi> 5.39. <hi>Search the Scriptures,</hi> John 20.31. <hi>These things are written that ye might believe,</hi> 2 Pet. 1.19. <hi>We have a sure word of Prophecy, whereto ye do well to take heed, as unto a Light that shineth in a dark place do allow, authorize, advise, encourage Lay-people to read the Scripture, to instruct or guide themselves by it (independently of the Church for its interpreter) in matters of Faith.</hi>
+            </p>
+            <p n="12">12 Quae. <hi>Doth any Scripture allow, Authorize, advise or encourage Lay people to judge of, or examine the Doctrine or Precepts of the Church, or of their Pastors by the Scripture, and to refuse to believe or obey what is not there set down?</hi> If so, name the place.</p>
+            <p>
+               <hi>Ans.</hi> These Scriptures, <hi>Act.</hi> 17.11. These were more Noble then those in <hi>Thessalo<g ref="char:EOLhyphen"/>nica,</hi> in that they received the Word with all readiness of mind, and searched the Scriptures daily, whether those things were so therefore many of them belived, 1 <hi>Thes.</hi> 5.21, 22. Prove all things, hold fast that which is good, abstain from all appearance of evil, 2 <hi>Tim.</hi> 3.14, to 18. <hi>But continue then in the things which thou hast Learned, and hast been assured of knowing of whom thou hast learned them, and that from a Child thou hast known the Holy Scriptures, which are able to make thee wise unto Salvation, through
+<pb n="8" facs="tcp:35445:5"/> Faith which is in Christ Jesus.</hi> All Scripture is given by Inspiration of God, and is profitable for Doctrine, for reproof, for correction, for instruction in righteousness, that the man of God may be perfect thorowly, furnished unto all good works. 1 <hi>Joh.</hi> 4.1. Beloved, believe not every spirit, but try the Spirits, whether they are of God: because many false Prophets are gone out into the world, 2 <hi>Iohn</hi> 9.10, 11. <hi>Whosoever transgresseth, and abideth not in the Doctrine of Christ, hath not God: He that abideth in the Doctrine of Christ, he hath both the Father and the Son. If there come any unto you, and bring not this Doctrine, receive him not into your house, nor bid him God-speed; for he that biddeth him God-speed is pa<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>taker of his evil deeds,</hi> allow, authorize, advise, or encou<g ref="char:EOLhyphen"/>rage Lay-people to judge of, or examine the Doctrine or Precepts of the Church, or of their Pastors by the Scripture, and to refuse to believe or obey in matters of Faith and Religion, what is not there set down.</p>
+            <p n="13">13. Quae. <hi>Doth any Scripture give hope of Salvation to a man who shall pertinaciously re<g ref="char:EOLhyphen"/>fuse to believe, or observe some thing taught, or commanded by the Church, under pain of mortal sin, if he find it not set down in Scripture?</hi> If so, name the place.</p>
+            <p>
+               <hi>Ans.</hi> These Scriptures, <hi>Mat.</hi> 15.9. <hi>In vain do they Worship me, teaching for Doctrines the Commandments of men,</hi> Col. 2.20. If ye be dead with Christ, from the Rudiments of the World; Why, as living in the world are ye subject to Ordinances? <hi>John</hi> 5.24. <hi>Verily, Verily, I say unto you, he that heareth my word, and believeth on him that sent me, hath everlasting life and shall not come into Condemnation, but is passed from death unto life,</hi> John 20.31. <hi>These things are written, that beliving ye might have life through his Name,</hi> 2 <hi>Tim.</hi> 3.15. The Holy Scriptures are able to make thee wise unto Salvation, through Faith which is in Christ Jesus, do give hope of Salvation to a man that shall perti<g ref="char:EOLhyphen"/>naciously refuse to believe or observe something taught or commanded by the Church, under pain of Mortal sin, if he find it not set down in Scripture.</p>
+            <p n="14">14 Quae. <hi>Doth not St.</hi> Peter <hi>say that the unlearned and unstable wrest, or pervert Scri<g ref="char:EOLhyphen"/>pture, to their own damnation,</hi> (2 Pet. 3.15.) <hi>And is not that enough to deter people from making it their gaine or rule inde<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>endently of the Church?</hi> If you deny it, give your reason.</p>
+            <p>
+               <hi>Ans.</hi> To the fourteenth, St. <hi>Peter</hi> doth say, that in all, St. <hi>Pauls</hi> Epistles speaking in them of these things (which he had spoken of before in that Chapter) in which, or among which things are some things hard to be understood, which they that are un<g ref="char:EOLhyphen"/>learned and u<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>able wrest or pervert, as they do also other Scriptures, to their own destruction, 2 <hi>Pet.</hi> 3.16. But this is not enough to deter people from making the Scripture their guide or rule independently of the Church, for these reasons. 1. Be<g ref="char:EOLhyphen"/>cause the hard things to be understood, which are said to be wrested, are but some things, and those about the matter before spoken of: which shews not that other things are hard to be understood, or apt to be wrested, and therefore this deters not from reading all parts of those Scriptures. 2. The persons wresting those Scriptures are only said to be the unlearned and unstable, therefore this hinders not, but that those who are not such, may read even those things. 3. These words do not deter, no not the unlearned and unitable from reading those things which are hard to be un<g ref="char:EOLhyphen"/>derstood, but only from reading them unwarily and heedlesly. 4. In their wary reading no direction is given by St. <hi>Peter,</hi> to depend on the Church for their interpretation. 5. The very scope of St <hi>Peter,</hi> is to commend St. <hi>Pauls</hi> writings, and other Scriptures to them, as being written to them according to the Wisdom given to them, particu<g ref="char:EOLunhyphen"/>larly about a point of Salvation that the long-suffering of our Lord is to be counted Salvation, v. 15. And therefore this Text proves the Scriptures to be the people, guide or rule, &amp; that they should read them as wr<gap reason="illegible: faint" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ten to them, though they had not, or used not the Church, that is, any Bishops, Pastors, Councils, to deliver their sense of the Scriptures.</p>
+            <p n="15">
+               <pb n="9" facs="tcp:35445:5"/>15 Quae. <hi>Doth not the Scripture absolutely will us, to hear the Church, to obey our Pastors, and follow their Faith, and threaten damnation to them that shall not?</hi> (Mat. 18.17. Mark 16.16. Heb. 13.7.)</p>
+            <p>
+               <hi>Ans.</hi> To the Fifteenth, None of these Scriptures (<hi>Mat.</hi> 18.17. <hi>Mark</hi> 16.16. <hi>Heb.</hi> 13.7.) nor any other do absolutely (that is without tryal, and finding the Doctrines or Commands agreeable to holy Scripture) will us to hear the Church, to obey our present Pastors, and follow their Faith, whatever it be; not threaten dam<g ref="char:EOLhyphen"/>nation to them that shall not so hear, follow, and obey.</p>
+            <p n="16">16 Quae. <hi>Doth any Scripture forewarn people of any possible danger in making the Church their Guide? or foretel, that at some time or other afore the worlds end, the Church or her Pa<g ref="char:EOLhyphen"/>stors should fall into error?</hi> If so, name the place.</p>
+            <p>
+               <hi>Ans.</hi> These Scriptures, <hi>Mat.</hi> 7.15. <hi>Beware of false Prophets.</hi> Acts 20.29.30. <hi>I knew this, that after my departing shall grievous Wolves enter in among you, not sparing the Flock. Also of your own selves shall men arise, speaking perverse things, to draw away Disciples after them,</hi> Rom. 16.17, 18. <hi>Mark them which cause divisions, and offences, contrary to the Doctrine which ye have learned, and avoid them, for by good words and fair speeches, they deceive the hearts of the simple,</hi> 1 Cor. 11.19. <hi>There must be also Heresies, that they which are approved may be made manifest among you,</hi> 2 Thes. 2.5, 7, 9, 10. <hi>Let no man deceive you by any means, there shall come a falling away afore the day of Christ; the mistery of iniquity doth already work; the coming of the wicked one is after the working of Satan, with all deceive ableness, of unrighteousness in them that perish,</hi> 1 Tim. 4.1, 2. <hi>The Spirit speaketh expresly, That in the latter times some shall depart from the Faith, giving heed to seducing Spirits, and Doctrines of Devils speaking lies in hypocrisie, forbidding to Marry, and Com<g ref="char:EOLhyphen"/>manding to abstain from Meats,</hi> 2 Pet. 2.1, 2, 3. <hi>There shall be false teachers among you, who privily shall bring in Damnable Heresies,</hi> 1 John 2.18, 19. <hi>Even now are there many Anti<g ref="char:EOLhyphen"/>christs, they went out from us, but they were not of us,</hi> Rev. 2.14, 15, 20. <hi>Thou hast there them that hold the Doctrine of</hi> Balaam, <hi>of the</hi> Nicolaitans, <hi>which I hate; thou sufferest that Woman</hi> Jezebel, <hi>which calleth her self a Prophetess, to teach and seduce my Servants, and others do forewarn people of great danger, in making the Teachers and Pastors in the Church of Christ Ʋniversally,</hi> without Discrimination or Examination of their Doct<g ref="char:EOLhyphen"/>rine, their Guide, forgetting that sometimes afore the Worlds end, the Teachers, or Pastors in the Churches shall fall into Errour.</p>
+            <p n="17">17 Quae. <hi>Doth any Text affirm, or necessarily imply, or infer that the Scripture contains expresly all things necessary to Salvation, or that it contains all such things plainly?</hi> If so, name the place.</p>
+            <p>
+               <hi>Ans.</hi> To the Seventeenth, these Texts, <hi>John</hi> 20.31. <hi>These things are written, that be<g ref="char:EOLhyphen"/>lieving ye might have life through his Name,</hi> 2 Tim. 3.15, 16, 17. The Holy Scriptures are able to make thee wise unto Salvation: All Scripture is profitable for Doctrine, for Reproof, for Correction, for Instruction in Righteousness, that the man of God may be perfected, thorowly furnished unto all good Works, do affirm, or necessarily imply that the Scripture contains expresly all things necessary to Salvation plainly.</p>
+            <p n="18">18 Quae. <hi>Is not our first Instruction in Religion the common and Principal rule, whereby we are to judge of all Teachers and Doctrines</hi> (Rom. 16.17. Gal. 1.8.) <hi>and the foundation of all our Knowledge, and certainty afterward in revealed truths? And is the Scripture so made as proper, useful, or profitable, or was it ever intended to that end, to give us our first instruction?</hi> If you affirm this last, shew some ground for it in Scripture.</p>
+            <p>
+               <hi>Ans.</hi> To the Eighteenth. Our first instruction in Religion, if it be meant of that which was by the Apostles in their days, is the common and principle rule, whereby we are to judge of all Teachers and Doctrine, according to <hi>Rom.</hi> 16.17. <hi>Gal.</hi> 1.8. And the foundation of all our Knowledge and Certainty, afterwards in revealed Truths.
+<pb n="10" facs="tcp:35445:6"/> And Scripture is proper, useful, profitable, and was intended to that end, to give us our first instructions, as may be proved from 2 <hi>Tim.</hi> 3.15, 16, 17. And in that it contains the Doctrine wherein we are to be first instructed, called the sincere milk of the Word, 1 <hi>Pet.</hi> 2.1, 2. by which we are begotten, <hi>James</hi> 1.18. If by our first instruction, be meant, what ever Doctrine was taught us when we first embraced Christian Religion, by what Teacher soever, or by our present Pastors, I deny it to be the common and prin<g ref="char:EOLhyphen"/>ciple Rule whereby we are to judge all Teachers, and Doctrines; or that, <hi>Rom.</hi> 16.17. <hi>Gal.</hi> 1.8. say it is; or that it is the foundation of all our Knowledge and Certainty, afterwards in revealed truths.</p>
+            <p n="19">19 Quae. <hi>Is Scripture proper, useful, or profitable? or was it ever intended to instruct or guide people in matters of Faith, but as in the hand of the Church and her Scholars?</hi> If you say yea, bring your proof.</p>
+            <p>
+               <hi>Ans.</hi> To the Nineteenth. Scripture is proper, useful, profitable, and was intended to instruct and guide people in matters of Faith, as in private persons hands, as ap<g ref="char:EOLhyphen"/>pears from <hi>Acts</hi> 17.11. These were more noble in that they searched the Scripture daily, whether those things were so, <hi>Acts</hi> 18.24, 28. <hi>Apollo</hi>'s a man mighty in the Scriptures, mightily convinced the <hi>Jews,</hi> and that publiquely, shewing by the Scrip<g ref="char:EOLhyphen"/>tures, that Jesus was Christ, 2 <hi>Tim.</hi> 3.15, 16, 17. And that thou hast known the holy Scriptures, which are able to make thee wise unto Salvation, through Faith in Christ Jesus. All Scripture is given by inspiration of God, and is profitable for Doctrine, for Reproof, for Correction, for instruction in Righteousness, that the man of God may be perfect, thorowly furnished unto all good Works.</p>
+            <div type="questions">
+               <head>Questions to be answered by a Papist, tending to free Mens Souls from the snares of the Assertors of the infalibility of the <hi>Roman</hi> Church.</head>
+               <p>
+                  <hi>Quest.</hi> 1. IS the Word written, left by Christ and his Apostles, the visable ordinary means or Rule whereby to teach all Mankind his Gospel, with infalible Truth and Divine Authority?</p>
+               <p>
+                  <hi>Quest.</hi> 2. Is there any other visible ordinary means or Rule, whereby to teach all Mankind the Gospel of Christ, with Infalible Truth and Divine Authority, left by Christ and his Apostles? If you say there is, name it, and set down your proof of it.</p>
+               <p>
+                  <hi>Quest.</hi> 3. If you make the Church (as you seem to do) the Infalible Guide or Rule of faith, or the supreme ordinary infalible Interpreter of Scripture, what are those Scriptures that do say so?</p>
+               <p>
+                  <hi>Quest.</hi> 4. What Person, or Persons, severally by themselves or in a Synod General, or Provincial do you make the Church, to which you ascribe the priviledges of being the infalible Guide or Rule of Faith, or the supreme ordinary infalible Interpreter of Scripture? Name them distinctly who they are, and how, and when they are infa<g ref="char:EOLhyphen"/>lible, and your Scriptures for it.</p>
+               <p>
+                  <hi>Quest.</hi> 5. What certain way or means is there, whereby a Lay-<hi>English-man</hi> may certainly know, without liableness to error, what that Church teacheth? Set it down distinctly and fully.</p>
+               <p>
+                  <hi>Quest.</hi> 6. What certain way have you to assure a Lay-<hi>English-man</hi> of the certain meaning of the decrees, or Determinations of this infalible Church, when the Canons, or D<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>crees may have or are conceived to have more sences then one, and the Doctors of the C<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>mon-Law, o<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Divines differ about them? If you have any, tell us in your answer, what it is.</p>
+               <p>
+                  <hi>Quest.</hi> 7. Have you any Scripture, whence it may be proved that the Church of <hi>Rome,</hi> or those who agree with the Bishop and Clergy of <hi>Rome,</hi> in all Doctrines of Religion are the Catholick Church of Christ? if you have any, produce it.</p>
+               <pb n="11" facs="tcp:35445:6"/>
+               <p>
+                  <hi>Quest.</hi> 8. Have you any Scripture whence it may be proved that the Church of <hi>Rome</hi> is the Mother and Mistris of all Churches? If you have shew it.</p>
+               <p>
+                  <hi>Q.</hi> 9. Is there any Scripture that ties all Christians to hear, obey, and follow the Church of <hi>Rome,</hi> in matters of Faith, under the penalty of Damnation, or mortal Sin? If there be, shew it.</p>
+               <p>
+                  <hi>Q.</hi> 10. Doth any Scripture alow or give warrant to the Bishop or Church of <hi>Rome,</hi> to alter, or vary from the institution of Christ? If it do, shew where.</p>
+               <p>
+                  <hi>Q.</hi> 11. Doth any Scripture warrant or alow the Bishop or Church of <hi>Rome,</hi> to forbid Lay-People the reading and searching the holy Scriptures, in their vulgar langu<g ref="char:EOLhyphen"/>age, and judging of their Teachers Doctrine thereby? Name them.</p>
+               <p>
+                  <hi>Q.</hi> 12. Doth any Scripture give power to the Bishop, or Church of <hi>Rome,</hi> by his sentence, with Authority to dispence with Gods Laws, where Scripture dispenceth not: As for example, by ratifying Incestuous, or forbidding Marriages, or by releas<g ref="char:EOLhyphen"/>ing persons from the obligation of lawful Oaths? If there be, shew it.</p>
+               <p>
+                  <hi>Q.</hi> 13. If it be supposed the Bishop or Pope of <hi>Rome,</hi> is an Infalible Guide in mat<g ref="char:EOLhyphen"/>ters of Faith, how should a Lay-Man be assured by Testimony, or Evidence Infalible, that the person taking upon himself that Name or Power, is the true Pope or Bishop, to whom that Power is confered?</p>
+               <p>
+                  <hi>Q.</hi> 14. When there is a Competition between sundry Popes, as it hath sundry times fallen out, how shall a Lay-<hi>English-man,</hi> know certainly which of them he is to follow, as his Pastor, or Guide of Faith?</p>
+               <p>
+                  <hi>Q.</hi> 15. When there is a vacancy of the See of <hi>Rome,</hi> so as that for, not only months, but years, there is no Pope, (as it hath sometimes hapned) nor any general Counsel; what Pastor then is there to a Lay-<hi>English-man,</hi> whom he is to take as an Infalible Guide of Faith to him?</p>
+               <p>
+                  <hi>Q.</hi> 16. When Popes or Councils determine one contrary to another, as hath been, whom must a Lay <hi>English-man</hi> follow, as infalible, the former, or the latter?</p>
+               <p>
+                  <hi>Q.</hi> 17. When Popes have been Simonists, or monstrously wicked, so as to have familiarity with the Devil, as their own Historians say of them, are they then Infa<g ref="char:EOLhyphen"/>lible Guides in matters of Christian Faith? and must a Lay-<hi>English-man</hi> then hear, obey, and follow them?</p>
+               <p>
+                  <hi>Q.</hi> 18. How shall a Lay-<hi>English-man</hi> know when the Pope speaks from his Chair, when not, when he propounds things to be believed by the whole Church (in which only it is said he is infalible) when not?</p>
+               <p>
+                  <hi>Q.</hi> 19. Sith some Counci<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s are approved, some not, some partly approved partly not, how shall a Lay-man know which he ought to adher to, which not?</p>
+               <p>
+                  <hi>Q.</hi> 20. Sith in the second Century or Age <hi>Ireneus</hi> was mistaken about Christs age, and others about Easter, though they pretended unwritten Apostolical Tradition, how shall any be certain concerning Oral unwritten Tradition, which is Apostolical, and to be received with like affection and reverence as the Scripture (if the <hi>Trent</hi> Councils Decree be right) which not?</p>
+               <p>
+                  <hi>Q.</hi> 21. Is the Bishop of <hi>Rome</hi> Infalible in matters of Fact, so as, that what he pro<g ref="char:EOLhyphen"/>nounceth, or declareth to have been done; or to be such, or such, is undoubtedly cer<g ref="char:EOLhyphen"/>tain, so as that he cannot be deceived in his Sentence?</p>
+               <p>
+                  <hi>Q.</hi> 22. Is it Infalibly certain, that those whom the Bishop of <hi>Rome</hi> hath Canonized as Saints and Martyrs, and appointed Festival days, to be observed in memory of them, and Prayers to be made to them, were indeed such Saints and Martyrs, and the de<g ref="char:EOLhyphen"/>dication of Churches, observing Holy-days for them, Invocation of them, not Idola<g ref="char:EOLhyphen"/>trous, or Supersticious?</p>
+               <p>
+                  <hi>Q.</hi> 23. How can any person be certain that the Popes Indulgence, granted by him<g ref="char:EOLhyphen"/>self
+<pb n="12" facs="tcp:35445:7"/> or his Deputies, is Valid; and that his Sins for given him by the Pope, are forgiven him by God, when neither the Pope infalibly can know the truth of the persons re<g ref="char:EOLhyphen"/>pentance, nor he to whom it is granted, be assured that there is no condition or consideration wanting, without which the indulgent is invalid?</p>
+               <p>
+                  <hi>Q.</hi> 24. The vulgar Latin translation of the Bible is made Authentique by the <hi>Trent</hi> Council; and two Popes, <hi>Sixtus</hi> the Fifth, and <hi>Clement</hi> the Eighth, put forth Editi<g ref="char:EOLhyphen"/>ons different, if not contray; how shall a man know which is infalible?</p>
+               <p>Qu. 25. The Concil of Trents Cannons have been Printed at different places, and so, as sometimes the Books disagree: If nothing but infability in the Churches proposal, will serve turn to settle mens Faith, and a man is not to use his own reason, to judge of the Churches proposal, nor to disbelieve it under penalty of mortal Sin, how shall it appear in such a case, what is the Churches infalible propo<g ref="char:EOLhyphen"/>sal, so as to settle a Lay English-man?</p>
+               <p>Qu. 26. If the Popes, or Church of Rome be infalible interpreters of Scripture, why is there not an infallible exposition of the Bible, made by any of them from the Apostles days, but men are sworn to expound it according to the consent of the Fathers, which Sixtus Sevensis shews us in his Bibliotheca, and othes shew to be a Nullity?</p>
+               <p>Qu. 27. How may a Lay or Clergy-man be sure the Pope proceeds rightly, in denouncing Excom<g ref="char:EOLhyphen"/>munication against P<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inces, in Judging Heretiques, Writing Breves, Jnterdicting Kingdoms and States, which depend on matters of Fact, if he be not infalible therein? and if he be fallible, how shall Priests and Lay-persons be sure they do not evil in obeying his Interdicts, Breves, executing his Buls, and not excepting against them as surreptitiously gotten, or rashly passed from him?</p>
+               <p>Qu. 28. Is the Councils Decree infalible afore the Pope confirm it, or not? if it be not, why do they pronounce Anathema to them that say otherwise: or say, it seemeth good to the Holy Spirit, and us; if it be, the Popes confirmation adds no certainty to it, nor gives any intrinsical authority to it, but is vain and superfluous, and it is to be received whether he confirm it, or not?</p>
+               <p>Qu. 29. When there is an accusation of the Pope, concerning false Doctrine, ill Administration or practice, is he to be Judge in his own cause, and his sentence infalible?</p>
+               <p>Qu 30. May not sometimes an appeal be rightly made, from the Pope, to a General Council; and if so, how shall it be known whose sentence is infalible?</p>
+               <p>Qu 31. Sith in the Roman Missal it is said, if either due matter, form, with intention of the priest, or priestly order in the Consecratour be wanting, the Sacrament is not Consecrated, how is it possible that the Lay English-man, hat doth hear Mass, and Adores the Hoast lifted up by the supposed priest, after the saying of these words (For this is my Body,) can be secure that he doth not count gross Idolatry, sith it is not possible he should know there is no defect in the matter, form, intention, ordi<g ref="char:EOLhyphen"/>nation of the priest, and consequently, that which he Adoreth be the very Body of Christ?</p>
+               <p>Qu. 32. When in procession the Hoast is carried about to be Worshiped, how can the common sort of the Laiety, not present at Mass, or the putting it into the pyris, be assured it is that which was consecrated, and the real Body of Christ, which he Adores, and so be secure from idolatry in adorning it, sith the priest or Ministers may deceive, and be deceived therein?</p>
+               <p>Qu. 33. Whether sith the Concil of Trent in the Seventh Session Cannon, the Eleventh Anathe<g ref="char:EOLhyphen"/>matizeth him that shall say in Ministers, when they Consecrate, and Confer Sacraments the intention at least, of doing what the Church doth, is not required, and less, 14 Chapter, 6. that the person confessing in the Sacrament of penance, is not to think himself truly, and before God, to be absolved, although a mind of doing seriously, and absolving truly be wanting to the priest, how a person can be assured of his Baptism and Absolution, that they are rightly done, and he truly Baptized, Absolved, sith he cannot be certain of the priests intention required?</p>
+               <p>Qu. 34. Sith in the saying of Councils approved, only that which is propounded to be believed as a point of Faith, is necessary to be believed, according to Bellarmin l. 2. de. Councils, c. 12. How can a Lay English-man know what it is the Church propounds as an Article of Faith, necessary to be assented to?</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
